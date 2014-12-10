@@ -1,0 +1,6 @@
+D:\Ha-Mim\Day_2\Problem1App\Problem1App\bin\Debug\Problem1App.exe.config
+D:\Ha-Mim\Day_2\Problem1App\Problem1App\obj\Debug\Problem1App.csprojResolveAssemblyReference.cache
+D:\Ha-Mim\Day_2\Problem1App\Problem1App\bin\Debug\Problem1App.exe
+D:\Ha-Mim\Day_2\Problem1App\Problem1App\bin\Debug\Problem1App.pdb
+D:\Ha-Mim\Day_2\Problem1App\Problem1App\obj\Debug\Problem1App.exe
+D:\Ha-Mim\Day_2\Problem1App\Problem1App\obj\Debug\Problem1App.pdb

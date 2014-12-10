@@ -1,0 +1,6 @@
+E:\Subir\Problem Solve\Day_2\ProblemFn2App\ProblemFn2App\bin\Debug\ProblemFn2App.exe.config
+E:\Subir\Problem Solve\Day_2\ProblemFn2App\ProblemFn2App\bin\Debug\ProblemFn2App.exe
+E:\Subir\Problem Solve\Day_2\ProblemFn2App\ProblemFn2App\bin\Debug\ProblemFn2App.pdb
+E:\Subir\Problem Solve\Day_2\ProblemFn2App\ProblemFn2App\obj\Debug\ProblemFn2App.csprojResolveAssemblyReference.cache
+E:\Subir\Problem Solve\Day_2\ProblemFn2App\ProblemFn2App\obj\Debug\ProblemFn2App.exe
+E:\Subir\Problem Solve\Day_2\ProblemFn2App\ProblemFn2App\obj\Debug\ProblemFn2App.pdb
